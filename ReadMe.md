@@ -5,4 +5,4 @@ Object-oriented programing and UML terminology.
 
 The difference between (2) and (3) is subtle yet important to differentiate. Together they are forms of association. What's the difference? Composition implies the child object cannot live out of the context of the parent (destroy the house and rooms disappear) whereas aggregation implies the child can exist on its own (destroy the house and the occupant goes elsewhere).
 
-<b> The Strategy Pattern </b> defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently frim clients that use it.
+<b> The Strategy Pattern </b> defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
