@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ch1-Intro-To-Design-Patterns/Ch1-Intro-To-Design-Patterns.iml" filepath="$PROJECT_DIR$/Ch1-Intro-To-Design-Patterns/Ch1-Intro-To-Design-Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch2-The-Observer-Pattern/Ch2-The-Observer-Pattern.iml" filepath="$PROJECT_DIR$/Ch2-The-Observer-Pattern/Ch2-The-Observer-Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch3-The-Decorator-Pattern/Ch3-The-Decorator-Pattern.iml" filepath="$PROJECT_DIR$/Ch3-The-Decorator-Pattern/Ch3-The-Decorator-Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Head-First-Design-Patterns.iml" filepath="$PROJECT_DIR$/Head-First-Design-Patterns.iml" />
     </modules>
   </component>
